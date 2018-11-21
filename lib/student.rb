@@ -38,7 +38,7 @@ class Student
   def self.create(name:, grade:)
     student = Student.new
     student.save
-    student 
-  end 
+    student
+  end
 
 end
